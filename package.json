@@ -1,0 +1,22 @@
+{
+  "name": "mongoose-simple-web-server",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "bittorrent",
+    "torrent",
+    "dht",
+    "kademlia",
+    "cli"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek Sinha",
+  "license": "ISC",
+  "dependencies": {
+    "bittorrent-dht": "^9.0.0",
+    "minimist": "^1.2.0"
+  }
+}
